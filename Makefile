@@ -1,2 +1,2 @@
 all: main.cpp
-	g++ main.cpp -o pomidor
+    g++ main.cpp -o pomidor
